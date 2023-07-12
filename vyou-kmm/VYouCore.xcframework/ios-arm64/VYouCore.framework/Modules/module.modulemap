@@ -1,0 +1,8 @@
+framework module VYouCore {
+    umbrella header "VYouCore.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
